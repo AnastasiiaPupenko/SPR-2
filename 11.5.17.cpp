@@ -1,3 +1,5 @@
+//Zreťazené zoznamy
+
 #include <iostream>     
 #include <cstdlib>     
 #include <ctime>        
